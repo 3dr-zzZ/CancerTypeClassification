@@ -1,8 +1,10 @@
 # CancerTypeClassification
 **Building Classification Model for 3 Class Cancer Dataset - A STA314 course group project.**
 
-**Collaborators:**
+**Collaborators:**  
+- Jinghao Hu @3dr-zzZ  
 
+---
 
 **Kaggle competition URL:** https://www.kaggle.com/competitions/classification-of-cancer-types  
 **Team name:** totrainornottotrain26  
