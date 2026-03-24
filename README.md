@@ -3,7 +3,7 @@
 
 **Collaborators:**  
 - Jinghao Hu @3dr-zzZ  
-
+- Xiaorui Huang @huangxiaoruiolivia-dev
 ---
 
 **Kaggle competition URL:** https://www.kaggle.com/competitions/classification-of-cancer-types  
